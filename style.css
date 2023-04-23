@@ -1,0 +1,23 @@
+.caja {
+    border: 1px solid orange;
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: white;
+  }
+  
+ /* #uno {
+    border: 1px solid purple;
+    position: fixed;
+    top: 80px;
+    left: 10px;
+    background: blue;
+  }  */
+  
+  .contenedor1 {
+    border: 1px solid olivedrab;
+    width: 500px;
+    height: 300px;
+    overflow: scroll;
+    padding-left: 150px;
+  }
